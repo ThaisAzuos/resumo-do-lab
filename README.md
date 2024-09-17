@@ -6,3 +6,7 @@ Aprendi a como localizar os serviços da azure e que eles estão organizados por
 
 Criando máquinas Virtuais na Azure:
 Ao criar máquinas virtuais na AZURE, precisamos saber qual a disponibilidade que os recursos deverão cumprir. Com base nisso o SLA será maior ou menor. Se maior, o custo também deverá ser maior.
+
+
+Configurando uma instância de Banco de Dados na Azure:
+Quando criamos uma instância ou recurso, inclusive de banco de dados, é necessário uma série de informações como por exemplo, identificar o servidor, o SLA. No final é possível verificar uma previsão do custo que aquela instância vai gerar.
