@@ -40,3 +40,10 @@ O AzCopy é um modelo mais leve e unilateral.
 Gerenciador de armazenamento do Microsoft Azure
 está disponível para Windows, Linux e MacOs.
 
+Entendendo sobre segurança e Identidade na Azure:
+Microsoft Entra Id: Os usuários do onprimisse são replicados para a nuvem, mas o contrário não ocorre.
+RBAC --> permissionamento para executar determinadas ações.
+O microsoft defender te dá opções de monitoramento, inclusive em ambientes onde existem mais de uma solução de nuvem sendo utilizada.
+
+
+
