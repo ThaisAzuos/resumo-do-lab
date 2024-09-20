@@ -17,3 +17,7 @@ Identificar como é feita a replicação dos dados de uma region para outra;
 Criar um grupo de recursos, identificado pela assinatura e região;
 Saber como controlar acessos com o IAM;
 
+Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure:
+Quando vamos criar uma máquina Virtual na azure, podemos também criar algumas máquinas com configurações pré-definidas.
+é possível escolher também máquinas que já possuam aplicações pré-instaladas. 
+Aprendi como realizar a configuração de escala e definir o modo de dimensionamento.
