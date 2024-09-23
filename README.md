@@ -49,5 +49,10 @@ O microsoft defender te dá opções de monitoramento, inclusive em ambientes on
 Otimizando Custos no Azure:
 Neste módulo entendi como é feita a previsibilidade dos custos da azure a partir da calculadora e a comparação dos custos no meu ambiente onPrimesse em relação à nuvem. Também entendi a importância da utilização das tags (marcas) nos recursos ou grupos de recursos da cloud. é possível por exemplo, à partir delas, separar os recursos por centro de custo.
 
+Gerenciando Políticas em acessos azure:
+Portal de confiança da Azure --> Saber como a microsoft protege os dados do cliente.
+Policies: Regras aplicadas aos resources groups e recursos.
+Locks: Pode ser a nível de resourse group ou recurso. Quando aplicado ao resource group, os recursos abaixo dele respeitam esse bloqueio. Quando o recurso é movido para outro resource group ele deixa de herdar o bloqueio.
+Microsoft Purview: Acesso ao portal de governança, segurança dos dados e compliance.
 
 
