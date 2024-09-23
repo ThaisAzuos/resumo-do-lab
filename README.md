@@ -46,4 +46,8 @@ RBAC --> permissionamento para executar determinadas ações.
 O microsoft defender te dá opções de monitoramento, inclusive em ambientes onde existem mais de uma solução de nuvem sendo utilizada.
 
 
+Otimizando Custos no Azure:
+Neste módulo entendi como é feita a previsibilidade dos custos da azure a partir da calculadora e a comparação dos custos no meu ambiente onPrimesse em relação à nuvem. Também entendi a importância da utilização das tags (marcas) nos recursos ou grupos de recursos da cloud. é possível por exemplo, à partir delas, separar os recursos por centro de custo.
+
+
 
