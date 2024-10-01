@@ -55,4 +55,13 @@ Policies: Regras aplicadas aos resources groups e recursos.
 Locks: Pode ser a nível de resourse group ou recurso. Quando aplicado ao resource group, os recursos abaixo dele respeitam esse bloqueio. Quando o recurso é movido para outro resource group ele deixa de herdar o bloqueio.
 Microsoft Purview: Acesso ao portal de governança, segurança dos dados e compliance.
 
+Ferramentas de Implantação na Azure:
+Os modos de implantação podem ser via portal, cloud shell, via linha de comando - precisa ter um storage account
+associado à conta. É possível por exemplo importar e exportar arquivos. É possível escolher o powershell ou o bash,
+dependendo da sua preferência. Existe um interpretador destes comandos. No export template eu consigo visualizar o
+JSON que tem os comandos para criação de um recurso. Sobre o Bicep, a quantidade de linhas de comandos é mais enxuta
+se comparado ao modelo ARM. Sobre o ARQ, ela é uma ferramenta de gerenciamento multi-cloud, permite a inclusão de
+infraestruturas existentes. Posso administrar recursos que não sejam do azure. Não existe concorrente direto em outras
+clouds para este tipo de recurso.
+
 
