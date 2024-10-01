@@ -64,4 +64,11 @@ se comparado ao modelo ARM. Sobre o ARQ, ela é uma ferramenta de gerenciamento 
 infraestruturas existentes. Posso administrar recursos que não sejam do azure. Não existe concorrente direto em outras
 clouds para este tipo de recurso.
 
-
+Monitoramento Inteligente com o Azure:
+Assistente do azure: faz recomendações, analisa recursos implantados. É cloud native.
+Integridade do serviço do azure é uma coleção de serviços que mantêm você informado sobre o status geral do azure,
+status de serviços que afetam você e status de recurso específico que está afetando você.
+Status do azure: visão global da integridade de todos os serviços da azure em todas as regiões da azure.
+Focada nos serviços e regiões que você está usando.
+Resource Health: Fornece informações sobre os recursos de nuvem individuais.
+Azure Monitor: maximiza disponibilidade e desempenho. Usa telemetria.
